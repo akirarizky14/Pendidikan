@@ -1,3 +1,5 @@
 Rencana 
 
 -bikin web untuk election
+  -flask
+  -django
